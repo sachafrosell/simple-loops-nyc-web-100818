@@ -11,6 +11,7 @@ phrase = "Welcome to Flatiron School's Web Development Course!"
    if counter == number_of_times
      break
    end
+ end
 end
 
 def times_iterator(number_of_times)
