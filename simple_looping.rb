@@ -2,7 +2,7 @@
 
 def loop_iterator(number_of_times)
  loop do
-   
+   puts 
 end
 
 def times_iterator(number_of_times)
