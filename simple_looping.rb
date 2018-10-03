@@ -7,6 +7,8 @@ counter = 0
    
    puts phrase
    
+   if counter == 10
+   
    phrase = "Welcome to Flatiron School's Web Development Course!"
    
 end
